@@ -43,15 +43,15 @@ In addition to the screenshot. Here is a link to the video walkthrough of how to
 
 ![Screenshot](https://i.gyazo.com/05bdec0a98e884026a8b32cee2ef93e4.png)
 
-- Instructional videos 
+Instructional videos 
 
-Walkthrough of setting up Database and running server - https://youtu.be/yVwG_7BDbUk
+- Walkthrough of setting up Database and running server - https://youtu.be/yVwG_7BDbUk
 
-Category routes - https://youtu.be/bLKM4TxU-w4
+- Category routes - https://youtu.be/bLKM4TxU-w4
 
-Product Routes - https://youtu.be/v1NuF3FKRVY
+- Product Routes - https://youtu.be/v1NuF3FKRVY
 
-Tag Routes - https://youtu.be/hFGzP3JeWHE
+- Tag Routes - https://youtu.be/hFGzP3JeWHE
 
 ## License
 
